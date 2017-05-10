@@ -34,4 +34,8 @@ public class Player extends BorderPane {
 
     }
 
+    public void pause(){
+        player.pause();
+    }
+
 }
